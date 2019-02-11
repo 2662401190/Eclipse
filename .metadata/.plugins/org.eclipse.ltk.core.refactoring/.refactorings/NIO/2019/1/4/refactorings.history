@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“NIO/timg1.jpg”重命名为“1.jpg”" description="重命名资源“timg1.jpg”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="timg1.jpg" name="1.jpg" stamp="1548060100702" updateReferences="true"/>
+</session>

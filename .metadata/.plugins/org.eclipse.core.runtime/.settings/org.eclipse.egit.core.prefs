@@ -1,0 +1,6 @@
+GitRepositoriesView.GitDirectories=P\:\\Eclipse\\\u4E8C\u7EF4\u6570\u7EC4\\.git;P\:\\Eclipse\\\u5E38\u7528\u7C7B\\.git;
+GitRepositoriesView.GitDirectories.relative=\u4E8C\u7EF4\u6570\u7EC4\\.git;\u5E38\u7528\u7C7B\\.git;
+core_autoIgnoreDerivedResources=false
+core_defaultRepositoryDir=C\:\\Apps\\Git
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+eclipse.preferences.version=1

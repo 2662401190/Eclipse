@@ -1,0 +1,31 @@
+package 集合;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class CollectionTest {
+
+	public static void main(String[] args) {
+		
+	Collection c=new ArrayList<>();
+	c.add(1);
+	c.add(2);
+	
+	
+	
+	Collection c1=new ArrayList<>();
+	c1.add(1);
+	c1.add(2);
+	c1.add(c);
+	
+	
+	
+	System.out.println(c1.contains(c));
+
+
+
+	
+	System.out.println(c1);
+	}
+	
+}
